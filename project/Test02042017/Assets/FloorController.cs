@@ -6,6 +6,8 @@ public class FloorController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+
+		print ("tra lala");
 		
 	}
 	

@@ -8,7 +8,8 @@ public class FloorController : MonoBehaviour {
 	void Start () {
 
 		print ("tra lala1");
-		print ("2");
+		print ("23");
+		print ("24");
 		
 	}
 	

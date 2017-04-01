@@ -7,7 +7,8 @@ public class FloorController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		print ("tra lala");
+		print ("tra lala1");
+		print ("2");
 		
 	}
 	
